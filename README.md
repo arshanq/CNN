@@ -1,2 +1,2 @@
 # CNN
-It contains submitted code for Udacity Computer Vision Nanodegree Project1
+Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
